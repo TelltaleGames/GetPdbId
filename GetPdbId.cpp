@@ -1,6 +1,5 @@
-// /*
-//cl /I"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\DIA SDK\include" "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\DIA SDK\lib\amd64\diaguids.lib" Ole32.lib pdbguid.cpp
-
+// Copyright (c) 2021 Telltale Games. All rights reserved.
+// See LICENSE for usage, modification, and distribution terms.
 #include <stdio.h>
 #include <Dia2.h>
 #include <assert.h>

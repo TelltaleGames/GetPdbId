@@ -1,3 +1,5 @@
+// Copyright (c) 2021 Telltale Games. All rights reserved.
+// See LICENSE for usage, modification, and distribution terms.
 #pragma once
 
 #include <string>
